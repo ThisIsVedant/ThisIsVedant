@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisvedant&label=Profile%20views&color=0e75b6&style=flat" alt="thisisvedant" /> </p>
 
-- 🌱 I’m currently focused on **Artificial Intelligence** and **Full-Stack Development**.
+- 🌱 I’m currently focused on **Artificial Intelligence** and enhancing my skills in **Full-Stack Development**.
 
 - 👨‍💻 **Explore my portfolio and projects:** [vedant-sharma.vercel.app](https://vedant-sharma.vercel.app/)
 
