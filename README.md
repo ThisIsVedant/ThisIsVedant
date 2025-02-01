@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vedant Sharma</h1>
-<h3 align="center">AI Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">AI Enthusiast | Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisvedant&label=Profile%20views&color=0e75b6&style=flat" alt="thisisvedant" /> </p>
 
-- 🌱 I’m currently focused on **Artificial Intelligence** and enhancing my skills in **Full-Stack Development**.
+- 🌱 I’m currently focused on **Artificial Intelligence** and enhancing my skills in **Frontend Development**.
 
 - 👨‍💻 **Explore my portfolio and projects:** [vedant-sharma.vercel.app](https://vedant-sharma.vercel.app/)
 
